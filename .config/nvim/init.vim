@@ -1,0 +1,1 @@
+/home/alberteex/.vimrc
