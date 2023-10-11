@@ -4,8 +4,8 @@
 | --- | --- |
 
 ### Table of contents
-* [Used Software](https://github.com/alberteex/dots/blob/main/README.md#used-software)
-* [Credits](https://github.com/alberteex/dots/blob/main/README.md#credits)
+* [Used Software](https://github.com/alberteex/dots/blob/main/README.md#table-of-contents)
+* [Credits](https://github.com/alberteex/dots#table-of-contents)
 
 ### Used Software
 * **Distro** - [archlinux](https://archlinux.org/)
