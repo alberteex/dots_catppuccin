@@ -20,7 +20,7 @@
 
 ### Credits
 
-
+* **[waybar inspiration](https://github.com/7KIR7/dots)**
 
 
 <div align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.png"></div>
