@@ -1,11 +1,11 @@
 # Dotfiles
 
-| ![1](assets/1.png) | ![2](assets/2.png) |
+| ![1](screenshots/1.png) | ![2](screenshots/2.png) |
 | --- | --- |
 
 ### Table of contents
-* [Used Software](#-Used-Software)
-* [Credits](#-Credits)
+* [Used Software](https://github.com/alberteex/dots/tree/main/assets#used-software)
+* [Credits](https://github.com/alberteex/dots/tree/main/assets#credits)
 
 ### Used Software
 * **Distro** - [archlinux](https://archlinux.org/)
