@@ -4,7 +4,7 @@
 | --- | --- |
 
 ### Table of contents
-* [Used Software](https://github.com/alberteex/dots/blob/main/README.md#table-of-contents)
+* [Used Software](https://github.com/alberteex/dots#table-of-contents)
 * [Credits](https://github.com/alberteex/dots#table-of-contents)
 
 ### Used Software
