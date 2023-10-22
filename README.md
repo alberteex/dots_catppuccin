@@ -16,6 +16,7 @@
 * **Font** - [JetBrainsMono Nerd Font](https://www.jetbrains.com/lp/mono/)
 * **Shell** - [zsh](https://www.zsh.org/)
 * **Wallpaper** - [swaybg](https://github.com/swaywm/swaybg)
+* **Spicetify theme** - [text](https://github.com/darkthemer/spicetify-themes)
 
 ### Credits
 
