@@ -1,7 +1,6 @@
 # Dotfiles
 
-| ![1](assets/screenshots/1.png) | ![2](assets/screenshots/2.png) |
-| --- | --- |
+[1](assets/screenshots/1.png)
 
 ### Table of contents
 * [Used Software](https://github.com/alberteex/dots#table-of-contents)
