@@ -15,8 +15,9 @@
 * **Launcher** - [wofi](https://github.com/uncomfyhalomacro/wofi)
 * **Font** - [JetBrainsMono Nerd Font](https://www.jetbrains.com/lp/mono/)
 * **Shell** - [zsh](https://www.zsh.org/)
-* **Wallpaper** - [swaybg](https://github.com/swaywm/swaybg)
-* **Spicetify theme** - [text](https://github.com/darkthemer/spicetify-themes)
+* **Wallpaper Software** - [swaybg](https://github.com/swaywm/swaybg)
+* **Wallpaper** - [link](https://github.com/alberteex/dots/blob/main/assets/wallpapers/evening-sky.png)
+* **Spicetify theme** - [catppuccin-mocha](https://github.com/catppuccin/spicetify)
 
 ### Credits
 
