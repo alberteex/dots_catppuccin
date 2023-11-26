@@ -12,7 +12,6 @@
 
 </div>
 
-![1](https://github.com/alberteex/dots/blob/main/assets/screenshots/1.png)
 ![1](https://github.com/alberteex/dots/blob/main/assets/screenshots/2.png)
 
 ### Table of contents
