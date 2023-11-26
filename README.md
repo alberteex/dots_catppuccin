@@ -1,4 +1,9 @@
 <div align="center">
+<img alt="Profiles Pictures" src="https://github.com/alberteex/dots/blob/1881ef387c1916481e6c9c3ccb53709c70ce075a/assets/pfp_rounded.png" width="225" height="225"/>
+</div>
+
+
+<div align="center">
     <h1>dotfiles</h1>
     <h3></h3>
 </div>
@@ -16,9 +21,10 @@
 
 # Table of contents
 * [💻 Used Software](https://github.com/alberteex/dots#table-of-contents)
-* [📝 Special Thanks](https://github.com/alberteex/dots#table-of-contents)
+* [🎖️ Special Thanks](https://github.com/alberteex/dots#table-of-contents)
 
-# Used Software
+
+# 💻 Used Software
 * **🐧 Distro** - [archlinux](https://archlinux.org/)
 * **🫐 WM** - [Hyprland](https://hyprland.org/)
 * **💸 Terminal** - [alacritty](https://github.com/alacritty/alacritty)
