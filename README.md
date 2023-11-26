@@ -46,6 +46,6 @@
 * **[📢 waybar inspiration](https://github.com/7KIR7/dots)**
 * **[🛹 hyprland config inspiration](https://github.com/linuxmobile/hyprland-dots)**
 * **[💰 based on catppuccin-mocha](https://github.com/catppuccin/catppuccin)**
-* **[🔋 r/unixporn](https://www.reddit.com/r/unixporn/)
+* **[🔋 r/unixporn](https://www.reddit.com/r/unixporn/)**
 
 <div align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.png"></div>
