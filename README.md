@@ -15,7 +15,7 @@
 ![1](https://github.com/alberteex/dots/blob/main/assets/screenshots/2.png)
 
 ### Table of contents
-* [Used Software](https://github.com/alberteex/dots#table-of-contents)
+* [Used Software](https://github.com/alberteex/dots#table-of-contents)
 * [Credits](https://github.com/alberteex/dots#table-of-contents)
 
 ### Used Software
@@ -33,10 +33,11 @@
 * **GTK theme** - [catppuccin-mocha](https://github.com/catppuccin/gtk/)
 
 
-### Credits
+### Special Thanks
 
 * **[waybar inspiration](https://github.com/7KIR7/dots)**
 * **[hyprland config inspiration](https://github.com/linuxmobile/hyprland-dots)**
+* **[based on catppuccin-mocha](https://github.com/catppuccin/catppuccin)**
 
 <div align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.png"></div>
 
