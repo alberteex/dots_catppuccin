@@ -15,29 +15,29 @@
 ![1](https://github.com/alberteex/dots/blob/main/assets/screenshots/2.png)
 
 ### Table of contents
-* [Used Software](https://github.com/alberteex/dots#table-of-contents)
-* [Credits](https://github.com/alberteex/dots#table-of-contents)
+* [Used Software💻](https://github.com/alberteex/dots#table-of-contents)
+* [Special Thanks📝](https://github.com/alberteex/dots#table-of-contents)
 
 ### Used Software
-* **Distro** - [archlinux](https://archlinux.org/)
-* **WM** - [Hyprland](https://hyprland.org/)
-* **Terminal** - [alacritty](https://github.com/alacritty/alacritty)
-* **File Manager** - [nautilus](https://apps.gnome.org/Nautilus/)
-* **Bar** - [waybar](https://github.com/Alexays/Waybar)
-* **Launcher** - [wofi](https://github.com/uncomfyhalomacro/wofi)
+* **Distro** - [archlinux🐧](https://archlinux.org/)
+* **WM** - [Hyprland🐧](https://hyprland.org/)
+* **Terminal** - [alacritty💸](https://github.com/alacritty/alacritty)
+* **File Manager** - [nautilus💾](https://apps.gnome.org/Nautilus/)
+* **Bar** - [waybar📏](https://github.com/Alexays/Waybar)
+* **Launcher** - [rofi🍃](https://github.com/lbonn/rofi)
 * **Font** - [JetBrainsMono Nerd Font](https://www.jetbrains.com/lp/mono/)
-* **Shell** - [zsh](https://www.zsh.org/)
-* **Wallpaper Software** - [swaybg](https://github.com/swaywm/swaybg)
-* **Wallpaper** - [link](https://github.com/alberteex/dots/blob/main/assets/wallpapers/evening-sky.png)
-* **Spicetify theme** - [catppuccin-mocha](https://github.com/catppuccin/spicetify)
-* **GTK theme** - [catppuccin-mocha](https://github.com/catppuccin/gtk/)
+* **Shell** - [zsh🌿](https://www.zsh.org/)
+* **Wallpaper Software** - [swaybg🚥](https://github.com/swaywm/swaybg)
+* **Wallpaper** - [link🌆](https://github.com/alberteex/dots/blob/main/assets/wallpapers/evening-sky.png)
+* **Spicetify theme** - [catppuccin-mocha🐢](https://github.com/catppuccin/spicetify)
+* **GTK theme** - [catppuccin-mocha🗿](https://github.com/catppuccin/gtk/)
 
 
-### Special Thanks
+### 🎖️Special Thanks
 
-* **[waybar inspiration](https://github.com/7KIR7/dots)**
-* **[hyprland config inspiration](https://github.com/linuxmobile/hyprland-dots)**
-* **[based on catppuccin-mocha](https://github.com/catppuccin/catppuccin)**
+* **[waybar inspiration📢](https://github.com/7KIR7/dots)**
+* **[hyprland config inspiration🛹](https://github.com/linuxmobile/hyprland-dots)**
+* **[based on catppuccin-mocha💰](https://github.com/catppuccin/catppuccin)**
 
 <div align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.png"></div>
 
