@@ -21,7 +21,7 @@
 ### Credits
 
 * **[waybar inspiration](https://github.com/7KIR7/dots)**
-* **[hyprland config inspiration](https://github.com/linuxmobile/hyprland-dots)
+* **[hyprland config inspiration](https://github.com/linuxmobile/hyprland-dots)**
 
 <div align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.png"></div>
 
