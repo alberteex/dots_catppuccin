@@ -1,4 +1,4 @@
-<div align="center">
+no<div align="center">
 <img alt="Profiles Pictures" src="https://github.com/alberteex/dots/blob/1881ef387c1916481e6c9c3ccb53709c70ce075a/assets/pfp_rounded.png" width="225" height="225"/>
 </div>
 
@@ -47,6 +47,6 @@
 * **[📢 waybar inspiration](https://github.com/7KIR7/dots)**
 * **[🛹 hyprland config inspiration](https://github.com/linuxmobile/hyprland-dots)**
 * **[💰 based on catppuccin-mocha](https://github.com/catppuccin/catppuccin)**
-* **[🔋 r/unixporn](https://www.reddit.com/r/unixporn/)**
+* **[🔋 r/unixcorn](https://www.reddit.com/r/unixporn/)**
 
 <div align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.png"></div>
