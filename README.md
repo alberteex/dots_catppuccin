@@ -22,9 +22,6 @@
 ![3](https://github.com/alberteex/dots/blob/main/assets/screenshots/4.png)
 ![4](https://github.com/alberteex/dots/blob/main/assets/screenshots/5.png)
 
-# Table of contents
-* [💻 Used Software](https://github.com/alberteex/dots#-used-software)
-* [🎖️ Special Thanks](https://github.com/alberteex/dots#%EF%B8%8Fspecial-thanks)
 
 
 # 💻 Used Software
