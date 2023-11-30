@@ -38,9 +38,9 @@
 * **🐢 Spicetify theme** - [catppuccin-mocha](https://github.com/catppuccin/spicetify)
 * **🗿 GTK theme** - [catppuccin-mocha](https://github.com/catppuccin/gtk/)
 * **💸 Terminal** - [alacritty](https://github.com/alacritty/alacritty)
-    * **🌿 Shell** - [zsh](https://www.zsh.org/)
-    * **🌶️ Font** - [JetBrainsMono Nerd Font](https://www.jetbrains.com/lp/mono/)
-    * **➡️  Prompt** - [starship](https://starship.rs/)
+* **🌿 Shell** - [zsh](https://www.zsh.org/)
+* **🌶️ Font** - [JetBrainsMono Nerd Font](https://www.jetbrains.com/lp/mono/)
+* **➡️  Prompt** - [starship](https://starship.rs/)
 
 # 🎖️Special Thanks
 
