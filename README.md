@@ -22,12 +22,9 @@
 ![3](https://github.com/alberteex/dots/blob/main/assets/screenshots/4.png)
 ![4](https://github.com/alberteex/dots/blob/main/assets/screenshots/5.png)
 
-# Table of contents
-* [💻 Used Software](https://github.com/alberteex/dots#-used-software)
-* [🎖️ Special Thanks](https://github.com/alberteex/dots#%EF%B8%8Fspecial-thanks)
+<details>
+<summary> 💻 Used Software</summary>
 
-
-# 💻 Used Software
 * **🐧 Distro** - [archlinux](https://archlinux.org/)
 * **🫐 WM** - [Hyprland](https://hyprland.org/)
 * **💾 File Manager** - [nautilus](https://apps.gnome.org/Nautilus/)
@@ -41,12 +38,15 @@
 * **🌿 Shell** - [zsh](https://www.zsh.org/)
 * **🌶️ Font** - [JetBrainsMono Nerd Font](https://www.jetbrains.com/lp/mono/)
 * **➡️  Prompt** - [starship](https://starship.rs/)
+</details>
 
-# 🎖️Special Thanks
-
+<details>
+<summary>🎖️Special Thanks</summary> 
+ 
 * **[📢 waybar inspiration](https://github.com/7KIR7/dots)**
 * **[🛹 hyprland config inspiration](https://github.com/linuxmobile/hyprland-dots)**
 * **[💰 based on catppuccin-mocha](https://github.com/catppuccin/catppuccin)**
 * **[🔋 r/unixcorn](https://www.reddit.com/r/unixporn/)**
-
+</details>
+ 
 <div align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.png"></div>
