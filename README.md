@@ -41,7 +41,7 @@
 
 # 🎖️Special Thanks
 
-* **[📢 waybar stolen from:](https://github.com/7KIR7/dots)**
+* **[📢 waybar stolen](https://github.com/7KIR7/dots)**
 * **[🛹 hyprland config inspiration](https://github.com/linuxmobile/hyprland-dots)**
 * **[💰 based on catppuccin-mocha](https://github.com/catppuccin/catppuccin)**
 * **[🔋 r/unixporn](https://www.reddit.com/r/unixporn/)**
