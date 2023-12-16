@@ -1,3 +1,5 @@
+# NO LONGER MAINTAINED, MOVED TO A NEW RICE(AVAILABLE ON MY PROFILE)
+
 <div align="center">
 <img alt="Profiles Pictures" src="https://github.com/alberteex/dots/blob/1881ef387c1916481e6c9c3ccb53709c70ce075a/assets/pfp_rounded.png" width="225" height="225"/>
 </div>
